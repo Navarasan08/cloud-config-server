@@ -1,0 +1,14 @@
+
+spring:
+  application:
+    name: user-service
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/learnify
+    username: postgres
+    password: admin
+
+server:
+  port: 8081
+
+
